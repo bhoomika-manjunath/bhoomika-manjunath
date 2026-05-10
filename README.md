@@ -1,12 +1,12 @@
 <!-- Header Image -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=200&section=header&text=Hi,%20I'm%20Bhoomika!&fontSize=45&fontAlignY=35&desc=Securing%20the%20digital%20and%20physical%20world&descAlignY=55&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff5722&height=200&section=header&text=Hi,%20I'm%20Bhoomika!&fontSize=45&fontAlignY=35&desc=Securing%20the%20digital%20and%20physical%20world&descAlignY=55&descAlign=62" />
 </div>
 
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast;IoT+Developer;Embedded+Systems+Explorer;Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=ff5722&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast;IoT+Developer;Embedded+Systems+Explorer;Problem+Solver" alt="Typing SVG" />
   </a>
 </div>
 
@@ -38,5 +38,5 @@ I am constantly expanding my practical skills by taking courses on **TryHackMe**
 
 <!-- Subtle Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff5722&height=100&section=footer" />
 </div>
